@@ -50,7 +50,7 @@ Comentários da turma
 Seus trabalhos
 Atribuído
 Comentários particulares
-# 👋 Olá! Eu sou [Seu Nome Aqui]
+# 👋 Olá! Eu sou Gabriel Sales
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
 
