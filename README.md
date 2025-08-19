@@ -44,11 +44,11 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
+- 🎓 Atualmente estudo no SESI GUARULHOS
 - 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- 🎯 Meu objetivo é Ser desenvolvedor Full Stack
+- 📚 Gosto de aprender sobre Arduino
+- ~~~~Acredite no poder de se reinventar. Cada passo, por menor que pareça, é um avanço na direção dos seus sonhos~~~~
 
 ---
 
