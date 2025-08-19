@@ -47,8 +47,8 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 🎓 Atualmente estudo no SESI GUARULHOS
 - 💻 Estou aprendendo  JAVA, Arduino, Git e GitHub
 - 🎯 Meu objetivo é se Profissionalizar em Arduino 
-- 📚 Gosto de aprender sobre Arduino
-- Acredite no poder de se reinventar. Cada passo, por menor que pareça, é um avanço na direção dos seus sonhos
+- 📚 Gosto de aprender sobre Arduino, jogos e animais🐶
+- Acredite no poder de se reinventar. Cada passo, por menor que pareça, é um avanço na direção dos seus sonhos✨
 
 ---
 
