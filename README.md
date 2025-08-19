@@ -1,55 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Sales996/Sales996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Pular para o conteúdo principal
-Google Sala de Aula
-Sala de Aula
-DS I4 SESI | 2025/2
-Desenvolvimento de Sistemas
-Início
-Agenda
-Minhas inscrições
-Pendentes
-D
-DS I4 SESI | 2025/2
-Desenvolvimento de Sistemas
-D
-DS 1 SESI_ARI_2024_1
-DS 1 SESI
-Turmas arquivadas
-Configurações
-Atividade: Criando seu primeiro README.mdDetalhes da atividade
-Atividade: Criando seu primeiro README.md
-EDUARDO FALABELLA
-•
-13:54
-Atividades em Aula
-•
-100 pontos
-Data de entrega: Hoje
-Aprender a documentar projetos de forma clara e organizada utilizando o arquivo README.md, fundamental em repositórios GitHub e projetos de programação.
-
-Personalize o seu github e poste aqui o link.
-
-modelo.txt
-Texto
-Comentários da turma
-Seus trabalhos
-Atribuído
-Comentários particulares
 # 👋 Olá! Eu sou Gabriel Sales
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
